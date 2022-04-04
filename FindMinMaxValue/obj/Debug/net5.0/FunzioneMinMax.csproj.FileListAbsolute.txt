@@ -1,0 +1,16 @@
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\bin\Debug\net5.0\FunzioneMinMax.exe
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\bin\Debug\net5.0\FunzioneMinMax.deps.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\bin\Debug\net5.0\FunzioneMinMax.runtimeconfig.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\bin\Debug\net5.0\FunzioneMinMax.runtimeconfig.dev.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\bin\Debug\net5.0\FunzioneMinMax.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\bin\Debug\net5.0\ref\FunzioneMinMax.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\bin\Debug\net5.0\FunzioneMinMax.pdb
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\obj\Debug\net5.0\FunzioneMinMax.csproj.AssemblyReference.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\obj\Debug\net5.0\FunzioneMinMax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\obj\Debug\net5.0\FunzioneMinMax.AssemblyInfoInputs.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\obj\Debug\net5.0\FunzioneMinMax.AssemblyInfo.cs
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\obj\Debug\net5.0\FunzioneMinMax.csproj.CoreCompileInputs.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\obj\Debug\net5.0\FunzioneMinMax.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\obj\Debug\net5.0\ref\FunzioneMinMax.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\obj\Debug\net5.0\FunzioneMinMax.pdb
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\FunzioneMinMax\obj\Debug\net5.0\FunzioneMinMax.genruntimeconfig.cache
