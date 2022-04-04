@@ -1,0 +1,16 @@
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\bin\Debug\net5.0\EsercizioSortCrescenteDecrescente.exe
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\bin\Debug\net5.0\EsercizioSortCrescenteDecrescente.deps.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\bin\Debug\net5.0\EsercizioSortCrescenteDecrescente.runtimeconfig.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\bin\Debug\net5.0\EsercizioSortCrescenteDecrescente.runtimeconfig.dev.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\bin\Debug\net5.0\EsercizioSortCrescenteDecrescente.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\bin\Debug\net5.0\ref\EsercizioSortCrescenteDecrescente.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\bin\Debug\net5.0\EsercizioSortCrescenteDecrescente.pdb
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\obj\Debug\net5.0\EsercizioSortCrescenteDecrescente.csproj.AssemblyReference.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\obj\Debug\net5.0\EsercizioSortCrescenteDecrescente.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\obj\Debug\net5.0\EsercizioSortCrescenteDecrescente.AssemblyInfoInputs.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\obj\Debug\net5.0\EsercizioSortCrescenteDecrescente.AssemblyInfo.cs
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\obj\Debug\net5.0\EsercizioSortCrescenteDecrescente.csproj.CoreCompileInputs.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\obj\Debug\net5.0\EsercizioSortCrescenteDecrescente.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\obj\Debug\net5.0\ref\EsercizioSortCrescenteDecrescente.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\obj\Debug\net5.0\EsercizioSortCrescenteDecrescente.pdb
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioSortCrescenteDecrescente\obj\Debug\net5.0\EsercizioSortCrescenteDecrescente.genruntimeconfig.cache

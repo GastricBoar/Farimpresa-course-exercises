@@ -1,0 +1,16 @@
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\bin\Debug\net5.0\SortWithString.exe
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\bin\Debug\net5.0\SortWithString.deps.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\bin\Debug\net5.0\SortWithString.runtimeconfig.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\bin\Debug\net5.0\SortWithString.runtimeconfig.dev.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\bin\Debug\net5.0\SortWithString.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\bin\Debug\net5.0\ref\SortWithString.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\bin\Debug\net5.0\SortWithString.pdb
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\obj\Debug\net5.0\SortWithString.csproj.AssemblyReference.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\obj\Debug\net5.0\SortWithString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\obj\Debug\net5.0\SortWithString.AssemblyInfoInputs.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\obj\Debug\net5.0\SortWithString.AssemblyInfo.cs
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\obj\Debug\net5.0\SortWithString.csproj.CoreCompileInputs.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\obj\Debug\net5.0\SortWithString.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\obj\Debug\net5.0\ref\SortWithString.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\obj\Debug\net5.0\SortWithString.pdb
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SortWithString\obj\Debug\net5.0\SortWithString.genruntimeconfig.cache
