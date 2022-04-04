@@ -1,0 +1,16 @@
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\bin\Debug\net5.0\EsercizioPalindromo.exe
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\bin\Debug\net5.0\EsercizioPalindromo.deps.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\bin\Debug\net5.0\EsercizioPalindromo.runtimeconfig.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\bin\Debug\net5.0\EsercizioPalindromo.runtimeconfig.dev.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\bin\Debug\net5.0\EsercizioPalindromo.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\bin\Debug\net5.0\ref\EsercizioPalindromo.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\bin\Debug\net5.0\EsercizioPalindromo.pdb
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\obj\Debug\net5.0\EsercizioPalindromo.csproj.AssemblyReference.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\obj\Debug\net5.0\EsercizioPalindromo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\obj\Debug\net5.0\EsercizioPalindromo.AssemblyInfoInputs.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\obj\Debug\net5.0\EsercizioPalindromo.AssemblyInfo.cs
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\obj\Debug\net5.0\EsercizioPalindromo.csproj.CoreCompileInputs.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\obj\Debug\net5.0\EsercizioPalindromo.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\obj\Debug\net5.0\ref\EsercizioPalindromo.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\obj\Debug\net5.0\EsercizioPalindromo.pdb
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\EsercizioPalindromo\obj\Debug\net5.0\EsercizioPalindromo.genruntimeconfig.cache
