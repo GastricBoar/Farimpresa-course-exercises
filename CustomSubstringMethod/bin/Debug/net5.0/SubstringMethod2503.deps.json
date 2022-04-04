@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SubstringMethod2503/1.0.0": {
+        "runtime": {
+          "SubstringMethod2503.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SubstringMethod2503/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

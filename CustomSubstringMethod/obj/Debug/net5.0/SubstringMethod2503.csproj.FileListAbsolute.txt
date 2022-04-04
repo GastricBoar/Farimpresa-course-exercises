@@ -1,0 +1,16 @@
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\bin\Debug\net5.0\SubstringMethod2503.exe
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\bin\Debug\net5.0\SubstringMethod2503.deps.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\bin\Debug\net5.0\SubstringMethod2503.runtimeconfig.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\bin\Debug\net5.0\SubstringMethod2503.runtimeconfig.dev.json
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\bin\Debug\net5.0\SubstringMethod2503.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\bin\Debug\net5.0\ref\SubstringMethod2503.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\bin\Debug\net5.0\SubstringMethod2503.pdb
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\obj\Debug\net5.0\SubstringMethod2503.csproj.AssemblyReference.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\obj\Debug\net5.0\SubstringMethod2503.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\obj\Debug\net5.0\SubstringMethod2503.AssemblyInfoInputs.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\obj\Debug\net5.0\SubstringMethod2503.AssemblyInfo.cs
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\obj\Debug\net5.0\SubstringMethod2503.csproj.CoreCompileInputs.cache
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\obj\Debug\net5.0\SubstringMethod2503.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\obj\Debug\net5.0\ref\SubstringMethod2503.dll
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\obj\Debug\net5.0\SubstringMethod2503.pdb
+D:\Dox\CorsoProgrammazione\Progetti Visual Studio\Marzo\SubstringMethod2503\obj\Debug\net5.0\SubstringMethod2503.genruntimeconfig.cache
